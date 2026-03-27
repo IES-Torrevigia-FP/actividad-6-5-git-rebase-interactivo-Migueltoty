@@ -1,0 +1,7 @@
+git rebase --abort hace que se aborte el proceso de rebase
+
+
+lo utilizaria para cancelar un proceso de rebase en curso
+
+
+
