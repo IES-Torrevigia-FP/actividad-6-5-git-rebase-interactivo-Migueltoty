@@ -1,0 +1,9 @@
+363391c otro commit
+a860e29 Añade línea extra 2 en app
+e06fd25 Añade línea extra 1 en app
+48b8626 Commit 1: versión inicial
+f1d8c1c add deadline
+bb807e3 Initial commit
+
+
+El reword sirve para renombrar 

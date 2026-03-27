@@ -1,0 +1,7 @@
+dbf4fdc Agrupa cambios de líneas extra en app
+48b8626 Commit 1: versión inicial
+f1d8c1c add deadline
+bb807e3 Initial commit
+
+
+es útil para mantener un historial de Git limpio, lineal y comprensible
